@@ -1,11 +1,19 @@
 # 	区分的三次エルミート内挿多項式を用いた画像の高品質化
-画像をRGBの3つの要素を持つピクセルの2次元配列とみなし、それぞれに補間アルゴリズムを用いて画像を補間します。
+画像のピクセルのRGBの3つの要素を持つ3次元配列のそれぞれに補間アルゴリズムを用いて画像を補間します。
 
 ## 結果
 PCHIP(区分的三次エルミート内挿多項式)による４倍拡張の結果を以下に示します。  
+自動的にある程度高品質化されてしまうようなので、Originには各ピクセルを4倍に拡大したものを用いています。
+(vscode以外のviewerで見るとほとんど違いが分からないので、実際に高品質化できているかは不明です。)
+
+### 農工大の鴨 
+|         **Origin**         |   ![元画像](/READMEcomponents/duck/target.png)  |
+|:----------------------:|:----------------------:|
+|    **Result**   |![補間後](/READMEcomponents/duck/pchip.png)  |
+
 
 ### マンドリル(http://www.ess.ic.kanagawa-it.ac.jp/app_images_j.html より)
-|         **Origin**         |   ![元画像](/READMEcomponents/Mandrill/Mandrill.jpg)  |
+|         **Origin**         |   ![元画像](/READMEcomponents/Mandrill/target.png)  |
 |:----------------------:|:----------------------:|
 |    **Result**   |![補間後](/READMEcomponents/Mandrill/pchip.png)  |
 
