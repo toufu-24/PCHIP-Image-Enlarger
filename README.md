@@ -5,7 +5,7 @@
 PCHIP(区分的三次エルミート内挿多項式)による４倍拡張の結果を以下に示します。  
 
 ### マンドリル(http://www.ess.ic.kanagawa-it.ac.jp/app_images_j.html より)
-|         **Origin**         |   ![元画像](/READMEcomponents/Mandrill/target.png)  |
+|         **Origin**         |   ![元画像](/READMEcomponents/Mandrill/Mandrill.jpg)  |
 |:----------------------:|:----------------------:|
 |    **Result**   |![補間後](/READMEcomponents/Mandrill/pchip.png)  |
 
