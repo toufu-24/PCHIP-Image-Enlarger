@@ -3,12 +3,6 @@
 
 ## 結果
 PCHIP(区分的三次エルミート内挿多項式)による４倍拡張の結果を以下に示します。  
-markdownでサイズ指定を行うと自動的にある程度高品質化されてしまうようなので、Originには各ピクセルを4倍に拡大したものを用いています。
-### 農工大の鴨 
-|         **Origin**         |   ![元画像](/READMEcomponents/duck/target.png)  |
-|:----------------------:|:----------------------:|
-|    **Result**   |![補間後](/READMEcomponents/duck/pchip.png)  |
-
 
 ### マンドリル(http://www.ess.ic.kanagawa-it.ac.jp/app_images_j.html より)
 |         **Origin**         |   ![元画像](/READMEcomponents/Mandrill/target.png)  |
